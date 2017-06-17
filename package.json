@@ -1,0 +1,67 @@
+{
+  "name": "helper-git-hash",
+  "description": "Helper for rendering the most recent commit hash from git history in templates.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/helpers/helper-git-hash",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "helpers/helper-git-hash",
+  "bugs": {
+    "url": "https://github.com/helpers/helper-git-hash/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "assemble": "^0.24.3",
+    "gulp-format-md": "^0.1.12",
+    "handlebars": "^4.0.10",
+    "mocha": "^3.4.2"
+  },
+  "keywords": [
+    "compile",
+    "git",
+    "hash",
+    "helper",
+    "helpers",
+    "render",
+    "rev",
+    "commit",
+    "template",
+    "templates"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "template-helpers",
+        "handlebars-helpers",
+        "assemble"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "generate",
+      "generate-helper",
+      "helpers",
+      "update",
+      "verb"
+    ]
+  }
+}
