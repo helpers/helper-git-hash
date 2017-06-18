@@ -1,7 +1,7 @@
 {
   "name": "helper-git-hash",
   "description": "Template helper for getting the most recent commit hash from git history.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/helpers/helper-git-hash",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "helpers/helper-git-hash",
