@@ -1,6 +1,6 @@
 # helper-git-hash [![NPM version](https://img.shields.io/npm/v/helper-git-hash.svg?style=flat)](https://www.npmjs.com/package/helper-git-hash) [![NPM monthly downloads](https://img.shields.io/npm/dm/helper-git-hash.svg?style=flat)](https://npmjs.org/package/helper-git-hash) [![NPM total downloads](https://img.shields.io/npm/dt/helper-git-hash.svg?style=flat)](https://npmjs.org/package/helper-git-hash) [![Linux Build Status](https://img.shields.io/travis/helpers/helper-git-hash.svg?style=flat&label=Travis)](https://travis-ci.org/helpers/helper-git-hash)
 
-> Helper for getting the current git hash in templates.
+> Template helper for getting the most recent commit hash from git history.
 
 ## Install
 
